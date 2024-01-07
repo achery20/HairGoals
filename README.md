@@ -12,7 +12,7 @@ Users can filter their search by:
 4. Ingredients
 
 Tools Used:
-ReactJS
-FireBase
-RedCircle API
-Rainforest API
+* ReactJS
+* FireBase
+* RedCircle API
+* Rainforest API
