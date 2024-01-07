@@ -5,6 +5,7 @@ Need a website that makes shopping for hair products easier.
 
 User can use the website to search for hair products that serve different purposes. 
 Users click a link to a website that sells the product.
+
 Users can filter their search by:
 1. Hair type
 2. Desired Style
