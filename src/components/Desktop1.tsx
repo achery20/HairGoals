@@ -18,7 +18,7 @@ export default function Desktop1({ className = "" }: Desktop1Props) {
                     </div>
                   </div>
                   <div className="relative h-80 w-96">
-                    <svg width="100%" height="100%" style={{"overflow":"visible"}} preserveAspectRatio="none" viewBox="4 4 498 325" fill="none" xmlns="http://www.w3.org/2000/svg"><g filter="url(#filter0_f_7_26)"><ellipse cx="253" cy="166.5" rx="249" ry="162.5" fill="white" fill-opacity="0.04"/></g><defs><filter id="filter0_f_7_26" x="0" y="0" width="506" height="333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_7_26"/></filter></defs></svg>
+                    <svg width="100%" height="100%" style={{"overflow":"visible"}} preserveAspectRatio="none" viewBox="4 4 498 325" fill="none" xmlns="http://www.w3.org/2000/svg"><g filter="url(#filter0_f_7_26)"><ellipse cx="253" cy="166.5" rx="249" ry="162.5" fill="white" fill-opacity="0.005"/></g><defs><filter id="filter0_f_7_26" x="0" y="0" width="506" height="333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_7_26"/></filter></defs></svg>
                   </div>
                   <img
                     className="absolute bottom-6 right-32 h-72 w-32 object-cover object-center drop-shadow-lg"
