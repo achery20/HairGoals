@@ -747,9 +747,6 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(255 247 237 / var(--tw-bg-opacity));
 }
-.bg-orange-50\/\[0\.93\] {
-  background-color: rgb(255 247 237 / 0.93);
-}
 .bg-\[url\(\"FLAG_REPLACE_CONTENT_FLAG\=SVG\=7\:23\"\)\] {
   background-image: url("/assets/Ellipse7.svg");
 }
