@@ -742,6 +742,7 @@ video {
 .bg-orange-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(254 215 170 / var(--tw-bg-opacity));
+  height: 525px;
 }
 .bg-orange-50 {
   --tw-bg-opacity: 1;
