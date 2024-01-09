@@ -549,6 +549,7 @@ video {
 }
 .ml-16 {
   margin-left: 4rem;
+  margin-bottom: 5rem;
 }
 .ml-2 {
   margin-left: 0.5rem;
@@ -927,7 +928,7 @@ video {
 }
 .text-yellow-800 {
   --tw-text-opacity: 1;
-  color: rgb(133 77 14 / var(--tw-text-opacity));
+  color: white;
 }
 .drop-shadow-lg {
   --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04))
