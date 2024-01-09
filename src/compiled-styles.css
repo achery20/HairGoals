@@ -945,3 +945,26 @@ html {
 .bg-more {
   background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/9bb1e17d4fb8d2407a1dfdc882ce2bc99e8cd119.webp);
 }
+
+body {
+  margin: 0;
+  line-height: inherit;
+  background: #f5f5dc; /* Cream background color */
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-feature-settings: normal;
+}
+
+p,
+ol,
+ul {
+  color: #8b4513; /* Brown text color */
+}
+
+a {
+  color: #a52a2a; /* Brown link color */
+}
+
+/* Add more styles as needed */
+
