@@ -1,7 +1,7 @@
 export default function Desktop1({ className = "" }: Desktop1Props) {
   return (
     <div className="font-josefin_sans inline-flex h-[2257px] w-[1422px] resize flex-row overflow-hidden text-left font-normal leading-[normal] tracking-[0px]" >
-      <div className="flex h-full w-full flex-wrap items-end overflow-clip bg-orange-50 pb-16" >
+      <div className="flex h-full w-full flex-wrap items-end overflow-clip bg-orange-49 pb-16" >
         <div className="flex w-[1645px] items-start justify-center self-stretch pb-[831px]" >
           <div className="relative flex flex-grow items-start self-stretch pb-56 pl-20 pr-36 pt-10" >
             <div className="absolute left-0 top-0 h-80 w-80">
@@ -30,12 +30,6 @@ export default function Desktop1({ className = "" }: Desktop1Props) {
                   </div>
                   <div className="bg-b-bg-ellipse-7bbpolygon-1bbpolygon-2 absolute bottom-0 right-96 flex h-9 w-10 items-center justify-center bg-cover bg-center py-3 px-1.5" >
                     <div className="flex flex-grow flex-wrap items-center justify-center gap-y-0 gap-x-0 pt-0" >
-                      <div className="h-3 w-3.5 self-stretch">
-                        <svg width="100%" height="100%" style={{"overflow":"visible"}} preserveAspectRatio="none" viewBox="0 0 14 12.23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.0509686 6.05811L10.5187 0.899343L10.4304 11.3923L0.0509686 6.05811Z" fill="white"/></svg>
-                      </div>
-                      <div className="h-3 w-3.5 self-stretch">
-                        <svg width="100%" height="100%" style={{"overflow":"visible"}} preserveAspectRatio="none" viewBox="-3 0 13.91 12.13" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.9041 6.05831L0.484896 11.3144L0.475384 0.821109L10.9041 6.05831Z" fill="white"/></svg>
-                      </div>
                     </div>
                   </div>
                   <div className="relative h-80 w-96">
