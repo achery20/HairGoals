@@ -1,10 +1,11 @@
 import React from "react";
-import Desktop1 from "./components/Desktop1";
+import home from "./components/HomePage";
 import Signup from "./components/Signup";
 
 function App() {
-  return <Desktop1 />;
   return <Signup />;
+  return <home/>;
+  //return <Signup />;
 }
 
 export default App;
