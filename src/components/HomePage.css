@@ -1,15 +1,9 @@
-/* HomePage.css */
-
+/* body {
+  background-color:#DDB892 !important;
+} */
+  
 .product-card {
-    transition: transform 0.2s ease-in-out;
-  }
-  
-  .product-card:hover {
-    transform: scale(1.05);
-  }
-  
-
-/* HomePage.css */
-
-  
-  
+  background-color: #F0CCB9 ;
+  /* #DDB892 !important; */
+  color: #212529;
+}

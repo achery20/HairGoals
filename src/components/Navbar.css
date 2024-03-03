@@ -1,0 +1,10 @@
+.custom-navbar{
+    background-color: #C18245;
+    padding-bottom: 40px;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: center; /* Horizontally center the elements */
+    align-items: center; 
+}

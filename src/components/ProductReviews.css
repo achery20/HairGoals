@@ -1,0 +1,45 @@
+/* styles.css */
+
+.review-card {
+    background-color: #F0CCB9;
+    margin-bottom: 20px;
+    border: 1px solid #F0CCB9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .review-card .card-body {
+    padding: 20px;
+  }
+  
+  .review-card .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .review-card .card-text {
+    font-size: 1rem;
+  }
+  
+  .reviewButton {
+    text-align: center !important;
+  }
+
+  .product-page-image {
+    width: 100%;
+    border-radius: 100px; /* Adjust the border-radius value as needed */
+    overflow: hidden; /* Ensures the rounded corners are visible */
+    margin: 0; /* Removes any default margins */
+
+  }
+
+  .product-page-image img {
+    width: 100%;
+    height: auto;
+    display: block; /* Ensures the image fills the entire width of its container */
+  }
+
+.reviews {
+    align-text: center;
+    padding: 20px;
+}

@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +22,26 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+} */
+
+body {
+  background-color: #C18245;
+  /* #af6e4d; */
+
+  /* #8D6E63; */
+}
+
+.btn {
+  background-color: #201311;
+  border-color: #201311; 
+  /* color: #fff; Optional: Change text color */
+}
+
+/* Hover effect */
+.btn:hover {
+  background-color: #201311;
+  border-color: #your-hover-color; /* Optional: Change border color on hover */
+  color: #fff; /* Optional: Change text color on hover */
 }
 
 .App-link {
@@ -37,4 +57,29 @@
   }
 }
 
+.rounded {
+  border-radius: 40px; 
+  overflow: hidden;
+}
 
+.carousel-item {
+  height: 800px;
+}
+.carousel-item img {
+  object-fit: fill; /* Ensure images cover the entire carousel item */
+  height: 100%; /* Make images fill the entire height of the carousel item */
+}
+
+#reviews{
+  text-align: left;
+}
+
+.form-card{
+  background-color: #F0CCB9;
+  border-radius: 10px; 
+  overflow: hidden;
+}
+
+.signup-button {
+  padding: 20px;
+}
